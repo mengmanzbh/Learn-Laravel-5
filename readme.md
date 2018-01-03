@@ -1,4 +1,6 @@
 ## Laravel 5 系列入门教程
+https://www.kancloud.cn/feimo87/laravel5-4/352856
+
 
 如果你想下载我的代码到本地运行，下载完成后记得运行 composer update 命令呦~
 
